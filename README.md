@@ -6,3 +6,5 @@ Processing charge cycle data from .MAT to.csv and saving in desired location
 •	naza.zip: Folder containing all original NASA Battery Data and information about the files.  
 •	Data Description.txt: Information about cell cyclind dataset.  
 
+Reference: https://github.com/psanabriaUC/BatteryDatasetImplementation
+
